@@ -1,16 +1,35 @@
-# React + Vite
+# 💰 Expense Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple and responsive Expense Manager built using React and Vite.
 
-Currently, two official plugins are available:
+This application helps users track income and expenses, organize transactions by category, and monitor their overall financial balance.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- 💰 Track income and expenses
+- 📊 Automatically calculate balance
+- 🏷️ Categorize transactions
+- 📅 Store transaction dates
+- 🔎 Search transactions
+- 🔽 Filter transactions by income or expense
+- 🗑️ Delete individual transactions
+- 🧹 Clear all transactions
+- 💾 Save transactions using Local Storage
+- 📊 View expenses by category
+- 📱 Responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the Oxlint configuration
+- React
+- Vite
+- JavaScript
+- HTML
+- CSS
+- Local Storage
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/ramithashet7-ai/expense-manager.git
